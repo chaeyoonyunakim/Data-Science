@@ -16,3 +16,7 @@ W2 Kaggle with London bike sharing dataset (https://www.kaggle.com/hmavrodiev/lo
 Principles of Data Science on World Suicide Rates. This study develops the question about rising suicide rates among young women in the Republic of Korea. Various feature selection has considered in data processing. Published on Kaggle (https://www.kaggle.com/chaeyoon/principles-of-data-science-in-msc-data-science).
 
 # INM402 Data Visualization
+
+
+
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/chaeyoonyunakim/Data-Science)
